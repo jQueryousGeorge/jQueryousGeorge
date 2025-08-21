@@ -15,7 +15,7 @@ Here is some quick information about me:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,py,md,matlab)](https://skillicons.dev)
 
 #### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,express,fastapi,flask,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,fastapi,flask,jest,jquery,tailwind,bootstrap)](https://skillicons.dev)
 
 #### Runtime Envs
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
@@ -27,10 +27,10 @@ Here is some quick information about me:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 #### Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,mint,bsd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,debian,mint,redhat,bsd)](https://skillicons.dev)
 
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 #### Editors & IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime,atom)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime,replit,vim,atom)](https://skillicons.dev)
